@@ -52,6 +52,6 @@ sensitive_anal\sobol.py
 
 # Contact us
 ## Address
-Laboratory of Environmental Electrochemistry and Functional Materials ，School of Environmental Science and Engineering, Huazhong University of Science and Technology, 1037 Luoyu Road, Wuhan, Hubei Province, P.R. China 430074
+Laboratory of Environmental Electrochemistry and Functional Materials (FunmatLab) ，School of Environmental Science and Engineering, Huazhong University of Science and Technology, 1037 Luoyu Road, Wuhan, Hubei Province, P.R. China 430074
 ## URL
 http://funmat.ese.hust.edu.cn/
